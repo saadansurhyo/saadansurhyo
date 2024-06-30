@@ -1,5 +1,5 @@
 # Hello World!, I'm Saadan Surhyo.
-👨‍💻 Aspiring Firmware/Software Engineer, passionate About Automotive + Tech!</br>
+👨‍💻 Aspiring Firmware/Software Engineer, passionate about Automotive + Tech</br>
 🦡 Studying CE & CS @ University of Wisconsin-Madison</br>
 🏎️ Wannabe Ferrari F1 Driver (mom needs convincing)</br>
 
